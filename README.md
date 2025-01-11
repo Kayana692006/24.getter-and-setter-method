@@ -1,0 +1,1 @@
+# 24.getter-and-setter-method
